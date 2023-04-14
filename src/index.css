@@ -1,0 +1,13 @@
+body {
+  background: rgb(44, 44, 44) url(./asset/Windows_Seven_Glow.jpg);
+  background-size: cover;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.navbar {
+  background: rgb(44, 44, 44);
+}
